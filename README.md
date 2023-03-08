@@ -16,7 +16,7 @@ I'm Tung, currently based in Berlin, Germany retraining to start an IT career. I
 </p>
 
 ## 💻 Languages and Tools
-![My languages](https://skillicons.dev/icons?i=java,kotlin,cs,js,dart,flutter&theme=light)
+<!-- ![My languages](https://skillicons.dev/icons?i=java,kotlin,cs,js,dart,flutter&theme=light)
 
 ![My tools](https://skillicons.dev/icons?i=html,css,bash,vim,docker,git,mysql,postgres,supabase&theme=light)
 
@@ -25,8 +25,7 @@ I'm Tung, currently based in Berlin, Germany retraining to start an IT career. I
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/apple/apple-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/android/android-original.svg" width="48" height="48"/>
-</div>
-<!--
+</div> -->
 <div>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/java/java-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48"/>
@@ -43,11 +42,10 @@ I'm Tung, currently based in Berlin, Germany retraining to start an IT career. I
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/vim/vim-original.svg" width="48" height="48"/>
 </div>
 <div>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/windows8/windows8-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/apple/apple-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/android/android-original.svg" width="48" height="48"/>
-</div> -->
+</div>

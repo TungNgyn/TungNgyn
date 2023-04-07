@@ -3,8 +3,7 @@ I'm Tung, currently based in Berlin, Germany retraining to start an IT career. I
   
    
 - 📚 Proactively learning Dart and JavaScript.
-- 🔨 Currently working on a cross platform mobile app
-- 🔍 Looking for an internship as a developer
+- 🔨 Currently working on a cross platform application 
 - 📫 Reach me at: nguyen.tung@outlook.de
 
 ## 📈 Stats 

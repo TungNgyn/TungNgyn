@@ -2,8 +2,9 @@
 I'm Tung, currently based in Berlin, Germany retraining to start an IT career. I have a strong interest specializing in mobile development as well as full-stack web development.  
   
    
-- 📚 Proactively learning Dart and JavaScript.
-- 🔨 Currently working on a cross platform application 
+- 📚 Proactively learning Dart and Flutter
+- 🔨 Currently working on a cross platform application 🔜 Barfbook
+- 🌏 Soon diving deep into the .NET ecosystem
 - 📫 Reach me at: nguyen.tung@outlook.de
 
 ## 📈 Stats 

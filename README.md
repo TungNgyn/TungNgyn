@@ -4,7 +4,7 @@ I'm Tung, currently based in Berlin, Germany retraining to start an IT career. I
 ## 📈 Stats 
 <p align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=TungNgyn&theme=nord&locale=de)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=TungNgyn&theme=nord&locale=de&card_width=450)](https://git.io/streak-stats)
   <img width=45% height=25% src="https://github-readme-stats.vercel.app/api?username=TungNgyn&theme=nord&show_icons=true)" />
   
 ![Tung's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TungNgyn&theme=nord)
